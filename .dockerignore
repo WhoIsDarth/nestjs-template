@@ -1,0 +1,13 @@
+.idea
+.git
+.gitignore
+.dockerignore
+Dockerfile
+*docker-compose.yml
+
+dist
+node_modules
+*.env
+*.env.example
+*.md
+*.log
